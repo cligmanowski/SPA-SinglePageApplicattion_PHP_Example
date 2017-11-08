@@ -18,3 +18,14 @@ Exemplo de uma SPA ( Single Page Application ) usando PHP + Angular.js
 
 Aplicação vai estar em **localhost:8000/home**
 
+# Observações
+
+**TO DO**
+
+- Validação dos dados enviados - Proteção para comandos XSS
+- Proteção CSRF no formulário
+- Deixar mais bonitinho HEHE
+
+**...to be continued**
+
+
